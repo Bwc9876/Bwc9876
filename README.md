@@ -1,16 +1,32 @@
-### Hi there 👋
-
-<!--
-**Bwc9876/Bwc9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages 
+### Confident In  
+- Python  
+- Visual Basic  
+- C#  
+- JS  
+### Can Use  
+- C++
+- Kotlin
+- HTML/CSS
+- Bash  
+### Still learning
+- C  
+- Lua  
+## Current Projects
+- Technology Student Association Webmaster Competition  
+- Technology Student Association Video Game Design Competition  
+## Past Projects 
+Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
+### Quickwheel 
+- [QuickWheel](https://github.com/Bwc9876/QuickWheel) - Python  
+### DoThing 
+- [DoThingServer](https://github.com/Bwc9876/DoThingServer) - C++  
+- [DoThingAuth](https://github.com/Bwc9876/DoThingAuth) - Python  
+- [DoThingAndroid](https://github.com/Bwc9876/DoThingAndroid) - Kotlin  
+- [DoThingWeb](https://github.com/Bwc9876/DoThingWeb) - Python/Django  
+### Enigma Machine Recreation 
+- [EnigmaMachineRecreation](https://github.com/Bwc9876/Enigma-Machine-Recreation) - Python  
+- [EnigmaMachineSite](https://github.com/Bwc9876/Enigma-Machine-Site) - HTML/CSS/JS 
+## Other Platforms
+- [Repl.it](https://repl.it/@BenjaminCrocker)  
+- Discord - Proffesional Idiot#7777    
