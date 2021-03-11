@@ -13,8 +13,7 @@
 - C  
 - Lua  
 ## Current Projects
-- Technology Student Association Webmaster Competition  
-- Technology Student Association Video Game Design Competition  
+- Opal Health (Extension of TSA Webmaster)
 ## Past Projects 
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
 ### Quickwheel 
@@ -27,6 +26,9 @@ Most of my past projects are private or no longer maintained, but here is a list
 ### Enigma Machine Recreation 
 - [EnigmaMachineRecreation](https://github.com/Bwc9876/Enigma-Machine-Recreation) - Python  
 - [EnigmaMachineSite](https://github.com/Bwc9876/Enigma-Machine-Site) - HTML/CSS/JS 
+### TSA
+- Technology Student Association Webmaster Competition  
+- Technology Student Association Video Game Design Competition  
 ## Other Platforms
 - [Repl.it](https://repl.it/@BenjaminCrocker)  
 - Discord - Proffesional Idiot#7777    
