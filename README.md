@@ -31,4 +31,3 @@ Most of my past projects are private or no longer maintained, but here is a list
 - Technology Student Association Video Game Design Competition  
 ## Other Platforms
 - [Repl.it](https://repl.it/@BenjaminCrocker)  
-- Discord - Proffesional Idiot#7777    
