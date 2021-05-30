@@ -6,6 +6,7 @@
 - JS  
 ### Can Use  
 - C++
+- Java
 - Kotlin
 - HTML/CSS
 - Bash  
