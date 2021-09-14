@@ -13,8 +13,9 @@
 ### Still learning
 - C  
 - Lua  
-## Current Projects
-- Opal Health (Extension of TSA Webmaster)
+## Current Projects 
+- [Berks Dental](https://github.com/Bwc9876/BerksDental) - Python 
+- Somaticraft - Minecraft Mod (Java) 
 ## Past Projects 
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
 ### Quickwheel 
