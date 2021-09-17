@@ -15,7 +15,7 @@
 - Lua  
 ## Current Projects 
 - [Berks Dental](https://github.com/Bwc9876/BerksDental) - Python/Django 
-- Code Review - Python/Django 
+- [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django 
 - Somaticraft - Java/Minecraft 
 ## Past Projects 
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
