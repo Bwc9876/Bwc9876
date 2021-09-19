@@ -33,4 +33,6 @@ Most of my past projects are private or no longer maintained, but here is a list
 - Technology Student Association Webmaster Competition  
 - Technology Student Association Video Game Design Competition  
 ## Other Platforms
-- [Repl.it](https://repl.it/@BenjaminCrocker)  
+- [Replit](https://replit.com/@bwc9876)
+- [LinkedIn](https://www.linkedin.com/in/ben-crocker9876)
+- Discord: Proffesional Idiot#9651
