@@ -21,6 +21,9 @@
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
 ### Quickwheel 
 - [QuickWheel](https://github.com/Bwc9876/QuickWheel) - Python/Tkinter 
+### Opal Health (previously Healine)
+- [Opal Health](https://github.com/ElderMicrobe889/Opal-Health)
+- [Comms.js](https://github.com/Bwc9876/Comms)
 ### DoThing 
 - [DoThingServer](https://github.com/Bwc9876/DoThingServer) - C++/Sockets 
 - [DoThingAuth](https://github.com/Bwc9876/DoThingAuth) - Python/Sockets 
@@ -29,10 +32,8 @@ Most of my past projects are private or no longer maintained, but here is a list
 ### Enigma Machine Recreation 
 - [EnigmaMachineRecreation](https://github.com/Bwc9876/Enigma-Machine-Recreation) - Python/Pygame 
 - [EnigmaMachineSite](https://github.com/Bwc9876/Enigma-Machine-Site) - HTML/CSS/JS 
-### TSA
-- Technology Student Association Webmaster Competition  
-- Technology Student Association Video Game Design Competition  
 ## Other Platforms
 - [Replit](https://replit.com/@bwc9876)
+- [StackOverflow](https://stackoverflow.com/users/10958689/ben-c)
 - [LinkedIn](https://www.linkedin.com/in/ben-crocker9876)
 - Discord: Proffesional Idiot#9651
