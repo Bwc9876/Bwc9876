@@ -22,8 +22,8 @@ Most of my past projects are private or no longer maintained, but here is a list
 ### Quickwheel 
 - [QuickWheel](https://github.com/Bwc9876/QuickWheel) - Python/Tkinter 
 ### Opal Health (previously Healine)
-- [Opal Health](https://github.com/ElderMicrobe889/Opal-Health)
-- [Comms.js](https://github.com/Bwc9876/Comms)
+- [Opal Health](https://github.com/ElderMicrobe889/Opal-Health) - Python/Django
+- [Comms.js](https://github.com/Bwc9876/Comms) - JavaScript/WebRTC
 ### DoThing 
 - [DoThingServer](https://github.com/Bwc9876/DoThingServer) - C++/Sockets 
 - [DoThingAuth](https://github.com/Bwc9876/DoThingAuth) - Python/Sockets 
