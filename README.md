@@ -19,6 +19,9 @@
 - [Somaticraft](https://github.com/Bwc9876/Somaticraft) - Java/Minecraft 
 ## Past Projects 
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
+### Unity WebGL
+- [UnityWebGLTemplate](https://github.com/Bwc9876/UnityWebGLTemplate) - Unity/GitHub Actions  
+- [UnityWebGL](https://github.com/Bwc9876/UnityWebGL) - Unity/GitHub Actions  
 ### Quickwheel 
 - [QuickWheel](https://github.com/Bwc9876/QuickWheel) - Python/Tkinter 
 ### Opal Health (previously Healine)
