@@ -15,7 +15,6 @@
 - Lua  
 ## Current Projects 
 - [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django   
-- [TSA Video Game 2021](https://github.com/Bwc9876/2004-901-Video-Game-2021) - C#/Unity  
 ## Past Projects 
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
 ### Unity WebGL
