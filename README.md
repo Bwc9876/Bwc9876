@@ -14,7 +14,8 @@
 - C  
 - Lua  
 ## Current Projects 
-- [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django   
+- [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django  
+- [Qwerty](https://github.com/Bwc9876/Qwerty) - Python/Pycord 
 ## Past Projects 
 Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
 ### Unity WebGL
