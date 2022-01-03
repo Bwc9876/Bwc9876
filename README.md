@@ -36,6 +36,8 @@ Most of my past projects are private or no longer maintained, but here is a list
 ### Enigma Machine Recreation 
 - [EnigmaMachineRecreation](https://github.com/Bwc9876/Enigma-Machine-Recreation) - Python/Pygame 
 - [EnigmaMachineSite](https://github.com/Bwc9876/Enigma-Machine-Site) - HTML/CSS/JS 
+### Outer Wilds Mods
+- [Save Editor](https://github.com/Bwc9876/OW-SaveEditor)
 ## Other Platforms
 - [Replit](https://replit.com/@bwc9876)
 - [StackOverflow](https://stackoverflow.com/users/10958689/ben-c)
