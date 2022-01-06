@@ -16,8 +16,8 @@
 ## Current Projects 
 - [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django  
 - [Qwerty](https://github.com/Bwc9876/Qwerty) - Python/Pycord 
-## Past Projects 
-Most of my past projects are private or no longer maintained, but here is a list of projects I liked working on:  
+## Past Projects
+  
 ### Unity WebGL
 - [UnityWebGLTemplate](https://github.com/Bwc9876/UnityWebGLTemplate) - Unity/GitHub Actions  
 - [UnityWebGL](https://github.com/Bwc9876/UnityWebGL) - Unity/GitHub Actions  
