@@ -1,23 +1,26 @@
 ## Languages 
 ### Confident In  
 - Python  
-- Visual Basic  
+- Visual Basic 
+- C++ 
 - C#  
 - JS  
 ### Can Use  
-- C++
 - Java
 - Kotlin
 - HTML/CSS
-- Bash  
+- Bash 
+- C 
 ### Still learning
-- C  
 - Lua  
 ## Current Projects 
-- [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django  
-- [Qwerty](https://github.com/Bwc9876/Qwerty) - Python/Pycord 
+-  [Python Compendium (name not final)](https://github.com/Bwc9876/Python-Compendium) - Pure Python
 ## Past Projects
   
+### Code Review
+- [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django
+### Qwerty
+- [Qwerty](https://github.com/Bwc9876/Qwerty) - Python/Pycord
 ### Unity WebGL
 - [UnityWebGLTemplate](https://github.com/Bwc9876/UnityWebGLTemplate) - Unity/GitHub Actions  
 - [UnityWebGL](https://github.com/Bwc9876/UnityWebGL) - Unity/GitHub Actions  
@@ -39,6 +42,7 @@
 ### Outer Wilds Mods
 - [Save Editor](https://github.com/Bwc9876/OW-SaveEditor) - C#/Unity
 - [Slate Simulator](https://github.com/Bwc9876/OW-Slate-Simulator) - C#/Unity
+- [New Horizons Helper](https://github.com/Bwc9876/New-Horizons-Helper) - C#/Unity
 ## Other Platforms
 - [Replit](https://replit.com/@bwc9876)
 - [StackOverflow](https://stackoverflow.com/users/10958689/ben-c)
