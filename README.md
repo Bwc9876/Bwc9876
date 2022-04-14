@@ -12,9 +12,9 @@
 - Bash 
 - C 
 ### Still learning
-- Lua  
-## Current Projects 
--  [Python Compendium (name not final)](https://github.com/Bwc9876/Python-Compendium) - Pure Python
+- Ruby 
+## Current Projects
+- [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons)
 ## Past Projects
   
 ### Code Review
