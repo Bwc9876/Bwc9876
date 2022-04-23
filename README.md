@@ -14,7 +14,8 @@
 ### Still learning
 - Ruby 
 ## Current Projects
-- [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons)
+- [Menagerie](https://github.com/Bwc9876/menagerie) - Python/Jinja2
+- [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
 ## Past Projects
   
 ### Code Review
