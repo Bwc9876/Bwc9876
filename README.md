@@ -5,17 +5,20 @@
 - C++ 
 - C#  
 - JS  
+- TS
 ### Can Use  
 - Java
 - Kotlin
 - HTML/CSS
 - Bash 
+- Rust
 - C 
 ### Still learning
 - Ruby 
 ## Current Projects
 - [Menagerie](https://github.com/Bwc9876/menagerie) - Python/Jinja2
 - [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
+- [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Past Projects
   
 ### Code Review
