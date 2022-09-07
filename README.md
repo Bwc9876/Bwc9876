@@ -22,7 +22,7 @@
 - [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Past Projects
 ### Tech Trends
-- [Tech Trends 2022](https://github.com/Bwc9876/TechTrends2022)
+- [Tech Trends 2022](https://github.com/Bwc9876/TechTrends2022) - Astro
 ### Code Review
 - [Code Review](https://github.com/Bwc9876/CodeReview) - Python/Django
 ### Qwerty
