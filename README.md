@@ -3,13 +3,14 @@
 - Python  
 - Visual Basic 
 - C++ 
-- C#  
+- C#
+- HTML
+- CSS
 - JS  
 - TS
 ### Can Use  
 - Java
 - Kotlin
-- HTML/CSS
 - Bash 
 - Rust
 - C 
