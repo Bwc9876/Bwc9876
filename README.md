@@ -21,6 +21,8 @@
 - [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
 - [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Past Projects
+### Co-op Scheduler
+- [Co-op Scheduler](https://github.com/Bwc9876/Coop-Schedule) - C#/WinForms
 ### Tech Trends
 - [Tech Trends 2022](https://github.com/Bwc9876/TechTrends2022) - Astro
 ### Code Review
