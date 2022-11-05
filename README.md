@@ -1,3 +1,5 @@
+![About Banner](https://user-images.githubusercontent.com/25644444/200096769-14a078ad-de1f-4da8-88bc-00bbfb88d07f.png)
+[![@bwc9876's Holopin board](https://holopin.me/bwc9876)](https://holopin.io/@bwc9876)
 ## Languages 
 ### Confident In  
 - Python  
