@@ -20,6 +20,7 @@
 - Ruby 
 ## Current Projects
 - [Menagerie](https://github.com/Bwc9876/menagerie) - Python/Jinja2
+- [Djazztro](https://github.com/Bwc9876/Djazztro) - Python/Astro
 - [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
 - [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Past Projects
