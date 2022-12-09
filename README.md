@@ -19,11 +19,11 @@
 ### Still learning
 - Ruby 
 ## Current Projects
-- [Menagerie](https://github.com/Bwc9876/menagerie) - Python/Jinja2
 - [Djazztro](https://github.com/Bwc9876/Djazztro) - Python/Astro
 - [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
-- [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Past Projects
+### Menagerie
+- [Menagerie](https://github.com/Bwc9876/menagerie) - Python/Jinja2
 ### Co-op Scheduler
 - [Co-op Scheduler](https://github.com/Bwc9876/Coop-Schedule) - C#/WinForms
 ### Tech Trends
@@ -54,6 +54,7 @@
 - [Save Editor](https://github.com/Bwc9876/OW-SaveEditor) - C#/Unity
 - [Slate Simulator](https://github.com/Bwc9876/OW-Slate-Simulator) - C#/Unity
 - [Time Saver](https://github.com/Bwc9876/OW-TimeSaver) - C#/Unity
+- [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Other Platforms
 - [Replit](https://replit.com/@bwc9876)
 - [StackOverflow](https://stackoverflow.com/users/10958689/ben-c)
