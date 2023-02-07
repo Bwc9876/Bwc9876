@@ -1,4 +1,3 @@
-![About Banner](https://user-images.githubusercontent.com/25644444/200096769-14a078ad-de1f-4da8-88bc-00bbfb88d07f.png)
 [![@bwc9876's Holopin board](https://holopin.me/bwc9876)](https://holopin.io/@bwc9876)
 ## Languages 
 ### Confident In  
@@ -19,9 +18,11 @@
 ### Still learning
 - Ruby 
 ## Current Projects
-- [Djazztro](https://github.com/Bwc9876/Djazztro) - Python/Astro
+- [Outer Wilds Mod Manager](https://github.com/Bwc9876/ow-mod-man) - Rust, Clap, Tauri, React, Vite
 - [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
 ## Past Projects
+### Djazztro
+- [Djazztro](https://github.com/Bwc9876/Djazztro) - Python/Astro
 ### Menagerie
 - [Menagerie](https://github.com/Bwc9876/menagerie) - Python/Jinja2
 ### Co-op Scheduler
