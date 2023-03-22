@@ -1,22 +1,6 @@
 [![@bwc9876's Holopin board](https://holopin.me/bwc9876)](https://holopin.io/@bwc9876)
-## Languages 
-### Confident In  
-- Python  
-- Visual Basic 
-- C++ 
-- C#
-- HTML
-- CSS
-- JS  
-- TS
-### Can Use  
-- Java
-- Kotlin
-- Bash 
-- Rust
-- C 
-### Still learning
-- Ruby 
+## About
+Hi there! I'm Ben C, I'm currently a Highschool student looking to enter the world of software development, specifically full-stack web development.
 ## Current Projects
 - [Outer Wilds Mod Manager](https://github.com/Bwc9876/ow-mod-man) - Rust, Clap, Tauri, React, Vite
 - [Outer Wilds New Horizons](https://github.com/xen-42/outer-wilds-new-horizons) - C#/Unity
@@ -57,7 +41,6 @@
 - [Time Saver](https://github.com/Bwc9876/OW-TimeSaver) - C#/Unity
 - [New Horizons Config Editor](https://github.com/Bwc9876/nh-config-editor) - Typescript/React & Rust/Tauri
 ## Other Platforms
-- [Replit](https://replit.com/@bwc9876)
 - [StackOverflow](https://stackoverflow.com/users/10958689/ben-c)
 - [LinkedIn](https://www.linkedin.com/in/ben-crocker9876)
 - Discord: Proffesional Idiot#9651
