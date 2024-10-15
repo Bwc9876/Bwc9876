@@ -1,5 +1,3 @@
-[![@bwc9876's Holopin board](https://holopin.me/bwc9876)](https://holopin.io/@bwc9876)
-
 # About
 
 Hi there! I'm Ben C, a student at West Chester University looking to enter the world of software development, specifically full-stack web development.
